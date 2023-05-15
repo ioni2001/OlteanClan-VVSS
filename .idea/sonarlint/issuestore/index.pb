@@ -31,9 +31,5 @@ e
 5src/main/java/inventory/service/InventoryService.java,f\b\fbfefaa7b63a08d0319b42efe2f7604a9cd84bce
 k
 ;src/main/java/inventory/repository/InventoryRepository.java,9\5\959d3be9e6d77120b22cdef08892aae567b3ccfc
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 s
 Csrc/main/java/inventory/repository/InventoryRepositoryInMemory.java,9\5\95371750025dc9d487c62116b76729be180c0e8e
-h
-8src/test/java/mockLab4Tests/InventoryRepositoryTest.java,e\b\eb6f6014dfe53e1b3b1248dbf2d0d1d2824db961
